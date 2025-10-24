@@ -720,6 +720,22 @@
             "margin_bottom": 0
           }
         },
+        "collapsible_tab_hYjYgX": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Pourquoi acheter uniquement sur notre site ?",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Nos produits sont exclusivement disponibles sur notre site officiel. Toute vente sur des plateformes externes, telles qu'Amazon, correspond à des contrefaçons de mauvaise qualité. Pour garantir l'authenticité et la qualité, n'achetez que sur notre site. Nous ne sommes pas responsables des produits achetés ailleurs.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
         "collapsible_tab_FfnDYH": {
           "type": "collapsible_tab",
           "settings": {
@@ -767,6 +783,7 @@
         "reviews_zeD7K3",
         "collapsible_tab_FkHNcg",
         "collapsible_tab_KXQEfn",
+        "collapsible_tab_hYjYgX",
         "collapsible_tab_FfnDYH",
         "collapsible_tab_pckaxA"
       ],
