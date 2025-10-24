@@ -1626,11 +1626,22 @@
             "row_content": "<p>Pour des résultats optimaux, il est recommandé d’intégrer le masque au collagène dans votre routine de soin nocturne <strong>1 à 2 fois par semaine.</strong></p>",
             "page": ""
           }
+        },
+        "collapsible_row_TxrmEb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Le masque convient-il aux peaux sensibles ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Absolument ! Notre masque a été <strong>testé dermatologiquement</strong> et est suffisamment doux pour tous les types de peau, <strong>y compris les peaux sensibles</strong>. Toutefois, si vous avez un doute, nous vous conseillons de faire un test sur une petite zone avant la première utilisation.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_LkhX6J",
-        "collapsible_row_ErPiYf"
+        "collapsible_row_ErPiYf",
+        "collapsible_row_TxrmEb"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
