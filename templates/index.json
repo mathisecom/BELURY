@@ -1368,8 +1368,8 @@
           "settings": {
             "image": "shopify://shop_images/curcuma_b08f1ab3-6a02-4068-96ef-e4e31ba89620.webp",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Curcuma",
+            "text": "<p>Illumine le teint, réduit les rougeurs et booste l’éclat naturel de la peau.</p>",
             "link_label": "",
             "link": ""
           }
@@ -1434,7 +1434,7 @@
         "image_width": "full",
         "image_ratio": "square",
         "media_position": "top",
-        "column_alignment": "center",
+        "column_alignment": "left",
         "desktop_heading_size": 24,
         "mobile_heading_size": 22,
         "desktop_text_size": 16,
