@@ -89,6 +89,63 @@
         "custom_section_gradient_background": ""
       }
     },
+    "horizontal_ticker_9hxX6e": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_XQCJXA": {
+          "type": "text",
+          "settings": {
+            "title": "Fini les soins coûteux"
+          }
+        },
+        "text_MW6rUd": {
+          "type": "text",
+          "settings": {
+            "title": "90 jours : satisfait ou remboursé"
+          }
+        },
+        "text_FpBeLp": {
+          "type": "text",
+          "settings": {
+            "title": "Livraison offerte"
+          }
+        }
+      },
+      "block_order": [
+        "text_XQCJXA",
+        "text_MW6rUd",
+        "text_FpBeLp"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 2,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "accent-1",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
+      }
+    },
     "contact_form_WHP8G7": {
       "type": "contact-form",
       "blocks": {
@@ -172,6 +229,7 @@
   },
   "order": [
     "image_with_text_mgjqag",
+    "horizontal_ticker_9hxX6e",
     "contact_form_WHP8G7"
   ]
 }
