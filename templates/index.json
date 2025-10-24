@@ -752,6 +752,22 @@
             "margin_bottom": 0
           }
         },
+        "collapsible_tab_9RTmX9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Combien de temps faut-il pour voir les résultats ?",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>De nombreuses clientes constatent une <strong>amélioration de l’hydratation et de la texture de la peau dès la première application</strong>. Pour des résultats plus visibles (réduction des ridules, peau plus ferme), une utilisation régulière pendant <strong>2 à 4 semaines</strong> est recommandée.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
         "collapsible_tab_pckaxA": {
           "type": "collapsible_tab",
           "settings": {
@@ -785,6 +801,7 @@
         "collapsible_tab_KXQEfn",
         "collapsible_tab_hYjYgX",
         "collapsible_tab_FfnDYH",
+        "collapsible_tab_9RTmX9",
         "collapsible_tab_pckaxA"
       ],
       "name": "t:sections.featured-product.presets.name",
