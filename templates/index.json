@@ -761,7 +761,7 @@
           "settings": {
             "heading": "Livraison GRATUITE",
             "heading_size": "medium",
-            "icon": "check_box",
+            "icon": "local_shipping",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
@@ -777,7 +777,7 @@
           "settings": {
             "heading": "Essayez-le 90 jours GRATUITEMENT",
             "heading_size": "medium",
-            "icon": "check_box",
+            "icon": "currency_exchange",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
@@ -793,7 +793,7 @@
           "settings": {
             "heading": "Pourquoi acheter uniquement sur notre site ?",
             "heading_size": "medium",
-            "icon": "check_box",
+            "icon": "storefront",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
@@ -809,7 +809,7 @@
           "settings": {
             "heading": "Conseils d'utilisation",
             "heading_size": "medium",
-            "icon": "check_box",
+            "icon": "play_arrow",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
@@ -825,7 +825,7 @@
           "settings": {
             "heading": "Combien de temps faut-il pour voir les résultats ?",
             "heading_size": "medium",
-            "icon": "check_box",
+            "icon": "help",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
@@ -841,7 +841,7 @@
           "settings": {
             "heading": "Composition",
             "heading_size": "medium",
-            "icon": "check_box",
+            "icon": "eco",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
