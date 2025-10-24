@@ -276,7 +276,7 @@
           "6269cf6e-8e24-4068-8e2a-35bb4addad4e": {
             "type": "countdown_timer",
             "settings": {
-              "timer_text": "<strong>Cart reserved for [timer]</strong>",
+              "timer_text": "Votre panier est réservé pendant [timer] minutes",
               "timer_duration": 300,
               "font_size": "1.4",
               "color_scheme": "inverse",
@@ -434,7 +434,7 @@
         ],
         "settings": {
           "test_mode": false,
-          "heading_text": "Cart • [count] items",
+          "heading_text": "",
           "heading_alignment": "flex-start",
           "desktop_width": "normal",
           "mobile_width": "full",
