@@ -1573,84 +1573,50 @@
         "custom_section_gradient_background": ""
       }
     },
-    "contact_form_WHP8G7": {
-      "type": "contact-form",
+    "collapsible_content_A7UKaa": {
+      "type": "collapsible-content",
       "blocks": {
-        "field_row_fNxBGi": {
-          "type": "field_row",
+        "collapsible_row_LkhX6J": {
+          "type": "collapsible_row",
           "settings": {
-            "input_1_enabled": true,
-            "input_1_type": "name",
-            "input_1_required": false,
-            "input_1_error_message": "This field is required",
-            "input_1_custom_name": "Custom input name",
-            "input_2_enabled": true,
-            "input_2_type": "email",
-            "input_2_required": false,
-            "input_2_error_message": "This field is required",
-            "input_2_custom_name": "Custom input name"
-          }
-        },
-        "field_row_f84rat": {
-          "type": "field_row",
-          "settings": {
-            "input_1_enabled": true,
-            "input_1_type": "phone",
-            "input_1_required": false,
-            "input_1_error_message": "This field is required",
-            "input_1_custom_name": "Custom input name",
-            "input_2_enabled": false,
-            "input_2_type": "custom",
-            "input_2_required": false,
-            "input_2_error_message": "This field is required",
-            "input_2_custom_name": "Custom input name"
-          }
-        },
-        "textarea_NbxXax": {
-          "type": "textarea",
-          "settings": {
-            "input_type": "comment",
-            "input_required": false,
-            "input_error_message": "This field is required",
-            "input_custom_name": "Custom name"
+            "heading": "Pourquoi acheter uniquement sur notre site officiel ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Nos produits sont uniquement disponibles sur notre site officiel. Toute vente sur des plateformes tierces, comme Amazon, concerne des contrefaçons de mauvaise qualité. Pour garantir l'authenticité et la qualité, achetez exclusivement sur notre site. Nous déclinons toute responsabilité pour les produits achetés ailleurs.</p>",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "field_row_fNxBGi",
-        "field_row_f84rat",
-        "textarea_NbxXax"
+        "collapsible_row_LkhX6J"
       ],
-      "disabled": true,
+      "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Contact form",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "button_full_width": true,
+        "caption": "",
+        "title": "Questions Fréquentes",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
         "color_scheme": "background-1",
-        "success_icon": "check_circle",
-        "success_icon_filled": false,
-        "success_text_color": "#28c100",
-        "success_bg_color": "#f2ffed",
-        "success_border_radius": 8,
-        "success_border_width": 1,
-        "success_border_color": "#28c100",
-        "errors_icon": "error",
-        "errors_icon_filled": false,
-        "errors_text_color": "#ff0000",
-        "errors_bg_color": "#fff5f5",
-        "errors_border_radius": 8,
-        "errors_border_width": 1,
-        "errors_border_color": "#ff0000",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "video_muted_autoplay": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
+        "custom_colors_background": "#FFFFFF",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff"
+        "custom_colors_text": "#2E2A39",
+        "custom_contaner_colors_background": "#FFFFFF",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2E2A39"
       }
     }
   },
@@ -1669,6 +1635,6 @@
     "multicolumn_UTQ9Vb",
     "image_with_text_DtV7yP",
     "image_with_text_TtpF3m",
-    "contact_form_WHP8G7"
+    "collapsible_content_A7UKaa"
   ]
 }
