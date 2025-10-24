@@ -423,12 +423,12 @@
             "autoplay_speed": 5,
             "display_arrows": false,
             "display_dots": true,
-            "author_1": "<em>Author</em> [stars]",
-            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "author_2": "<em>Author</em> [stars]",
-            "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "author_3": "<em>Author</em> [stars]",
-            "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "author_1": "<em>Lisa K.</em> [stars]",
+            "text_1": "<p>Le masque de Belury a fait des merveilles sur mes rides. J'ai remarqué que ma peau était plus ferme et mes ridules atténuées. C'est devenu un incontournable dans ma routine quotidienne</p>",
+            "author_2": "<em>Aurore J.</em> [stars]",
+            "text_2": "<p>Mes rides ont sensiblement diminué après seulement quelques applications. Incroyable !<br/></p>",
+            "author_3": "<em>Mélissa F.</em> [stars]",
+            "text_3": "<p>Ma peau est plus ferme et plus hydratée, je le recommande à 100% !<br/><br/></p>",
             "margin_top": 24,
             "margin_bottom": 24
           }
