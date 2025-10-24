@@ -290,11 +290,11 @@
               "goal_type": "subtotal",
               "progress_message": "You're [amount] away from [next_goal]!",
               "success_message": "Félicitations ! Vous bénéficiez de la livraison OFFERTE !",
-              "labels_mobile_text_size": 10,
-              "labels_desktop_text_size": 12,
+              "labels_mobile_text_size": 6,
+              "labels_desktop_text_size": 9,
               "accent_color": "accent-1",
               "enable_goal_1": true,
-              "goal_1_label": "Félicitations ! Vous bénéficiez de la livraison OFFERTE !",
+              "goal_1_label": "",
               "goal_1_text": "FREE shipping",
               "goal_1_amount": 29,
               "goal_1_icon": "local_shipping",
@@ -365,11 +365,10 @@
           },
           "631b0e34-4299-400e-9f4d-c107c08cce01": {
             "type": "discount_field",
-            "disabled": true,
             "settings": {
               "bottom_separator": true,
-              "placeholder": "Enter discount code",
-              "btn_label": "ADD",
+              "placeholder": "Code de Réduction",
+              "btn_label": "Valider",
               "error_msg": "Please enter a discount code!",
               "margin_top": 15,
               "margin_bottom": 15
