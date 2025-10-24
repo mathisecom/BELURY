@@ -1418,8 +1418,8 @@
           "settings": {
             "image": "shopify://shop_images/5.webp",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Collagène",
+            "text": "<p>Favorise l'élasticité de la peau et contribue à une apparence plus ferme</p>",
             "link_label": "",
             "link": ""
           }
@@ -1427,10 +1427,10 @@
         "column_Yt6iRf": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/6.webp",
+            "image": "shopify://shop_images/vitamine_C.webp",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Vitamine C",
+            "text": "<p>Ravive l’éclat du teint et atténue les taches pigmentaires</p>",
             "link_label": "",
             "link": ""
           }
@@ -1438,10 +1438,10 @@
         "column_JwTDzF": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/vitamine_C.webp",
+            "image": "shopify://shop_images/6.webp",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Rétinol",
+            "text": "<p>Lisse les rides et booste le renouvellement cellulaire pour une peau visiblement plus jeune</p>",
             "link_label": "",
             "link": ""
           }
@@ -1854,7 +1854,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "text": "",
         "color_scheme": "background-1",
@@ -1886,12 +1886,12 @@
         "mobile_arrows_position": "hidden",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_cards_colors_background": "#F3F3F3",
+        "custom_colors_text": "#2e2a39",
+        "custom_cards_colors_background": "#f3f3f3",
         "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#2E2A39"
+        "custom_cards_colors_text": "#2e2a39"
       }
     }
   },
