@@ -20,7 +20,7 @@
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
             "label": " Excellent <strong>4.8/5</strong> | + 5800 avis",
-            "size": 16,
+            "size": 13,
             "scroll_id": ""
           }
         },
@@ -74,7 +74,7 @@
         "mobile_full_media_width": false,
         "mobile_direction": "normal",
         "mobile_image_quanlity": "2",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "mobile_padding_top": 0,
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
