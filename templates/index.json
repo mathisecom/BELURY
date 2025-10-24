@@ -558,6 +558,72 @@
         "custom_section_gradient_background": ""
       }
     },
+    "image_with_text_DtV7yP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_mh3hj9": {
+          "type": "heading",
+          "settings": {
+            "title": "Expérimentez une transformation rajeunissante",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h2"
+          }
+        },
+        "text_LBBGfx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tous les signes visibles de fatigue, de stress ou de vieillissement disparaissent de votre visage.</p><p>Notre traitement soutient votre peau et aide à restaurer son élasticité.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_WnEygd": {
+          "type": "button",
+          "settings": {
+            "button_label": "Profiter de L'Offre !",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_mh3hj9",
+        "text_LBBGfx",
+        "button_WnEygd"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/miror_1.webp",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "center",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
     "contact_form_WHP8G7": {
       "type": "contact-form",
       "blocks": {
@@ -644,6 +710,7 @@
     "horizontal_ticker_9hxX6e",
     "featured_product_w6QK93",
     "image_with_text_TweAx9",
+    "image_with_text_DtV7yP",
     "contact_form_WHP8G7"
   ]
 }
