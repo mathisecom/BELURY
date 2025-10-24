@@ -1666,6 +1666,26 @@
             "row_content": "<p>Non, pas du tout. Notre formule est <strong>légère et respirante</strong>, elle permet à la peau d’absorber tous les bienfaits sans obstruer les pores.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_npLceH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Puis-je utiliser le masque avec mes autres produits de soin ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Bien sûr ! Vous pouvez l’appliquer <strong>après votre tonique, sérum ou crème hydratante habituelle</strong>. Cela va même <strong>renforcer l’efficacité de toute votre routine</strong> de soin.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_bJxewm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quel est le délai de livraison ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Suite au grand succès de nos produits, il faudra <strong>8 à 10 jours</strong> ouvrés pour recevoir votre commande. Vous recevrez des mises à jour sur l'état de votre commande par e-mail.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -1674,7 +1694,9 @@
         "collapsible_row_TxrmEb",
         "collapsible_row_VBaAKE",
         "collapsible_row_Wc6pnQ",
-        "collapsible_row_KtzBhU"
+        "collapsible_row_KtzBhU",
+        "collapsible_row_npLceH",
+        "collapsible_row_bJxewm"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
