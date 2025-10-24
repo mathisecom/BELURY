@@ -149,6 +149,21 @@
     "featured_product_w6QK93": {
       "type": "featured-product",
       "blocks": {
+        "trustpilot_stars_PCr3pj": {
+          "type": "trustpilot_stars",
+          "settings": {
+            "rating": 5,
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": "(xxxx Reviews)",
+            "size": 13,
+            "alignment": "flex-start",
+            "scroll_id": "",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
         "title_dNGDEG": {
           "type": "title",
           "settings": {
@@ -159,25 +174,9 @@
             "margin_bottom": 15
           }
         },
-        "price_HGjJTi": {
-          "type": "price",
-          "settings": {
-            "layout": "price_first",
-            "price_color": "accent-1",
-            "compare_price_color": "text",
-            "displayed_badge": "sale",
-            "icon_scale": 140,
-            "custom_badge_text": "[icon_1] SPECIAL OFFER",
-            "icon_1": "redeem",
-            "filled_icon_1": false,
-            "icon_2": "check_circle",
-            "filled_icon_2": false,
-            "margin_top": 15,
-            "margin_bottom": 15
-          }
-        },
         "variant_picker_gYYw9x": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_types": "pills, pills, pills",
             "custom_labels": "",
@@ -215,6 +214,7 @@
         },
         "quantity_selector_Fz8iRm": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
             "full_width_classic": false,
             "atc_append": "none",
@@ -320,14 +320,65 @@
             "margin_top": 24,
             "margin_bottom": 24
           }
+        },
+        "collapsible_tab_FkHNcg": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Livraison GRATUITE",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_FfnDYH": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Conseils d'utilisation",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_pckaxA": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Composition",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
         }
       },
       "block_order": [
+        "trustpilot_stars_PCr3pj",
         "title_dNGDEG",
-        "price_HGjJTi",
         "variant_picker_gYYw9x",
         "quantity_selector_Fz8iRm",
-        "buy_buttons_Q4gtc7"
+        "buy_buttons_Q4gtc7",
+        "collapsible_tab_FkHNcg",
+        "collapsible_tab_FfnDYH",
+        "collapsible_tab_pckaxA"
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
