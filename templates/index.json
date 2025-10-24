@@ -321,6 +321,72 @@
         "custom_cards_colors_text": "#2E2A39"
       }
     },
+    "logo_list_hrDWhP": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_WVKF9L": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/1200px-VOGUE_revista_-_logo.webp",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_fy3C8J": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Elle.png",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_MgA9NG": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.webp",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_C6YtDP": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.webp",
+            "link": "",
+            "target_blank": false
+          }
+        }
+      },
+      "block_order": [
+        "logo_WVKF9L",
+        "logo_fy3C8J",
+        "logo_MgA9NG",
+        "logo_C6YtDP"
+      ],
+      "name": "Featured on",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Vu sur:",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h2",
+        "gray_logos": false,
+        "color_scheme": "background-1",
+        "layout": "horizontal",
+        "desktop_logo_height": 50,
+        "columns_mobile": 2,
+        "mobile_logo_height": 50,
+        "mobile_slider": true,
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "show_dots": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
     "featured_product_w6QK93": {
       "type": "featured-product",
       "blocks": {
@@ -1531,6 +1597,7 @@
     "horizontal_ticker_9hxX6e",
     "rich_text_QRKAWC",
     "testimonials_d8HKa7",
+    "logo_list_hrDWhP",
     "featured_product_w6QK93",
     "image_with_text_TweAx9",
     "image_slider_jcJbDj",
