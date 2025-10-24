@@ -947,12 +947,53 @@
         "custom_cards_colors_text": "#2E2A39"
       }
     },
+    "rich_text_G8VWqR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_h3wnb3": {
+          "type": "heading",
+          "settings": {
+            "title": "Effacez les rides & Restaurez l’élasticité de votre peau",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        },
+        "text_gYHw8j": {
+          "type": "text",
+          "settings": {
+            "text": "<p>La puissance de du <strong>masque coréen Belury </strong>réside dans sa combinaison unique d’ingrédients ciblés et hautement performants :</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_h3wnb3",
+        "text_gYHw8j"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "multicolumn_UTQ9Vb": {
       "type": "multicolumn",
       "blocks": {
         "column_tJVJxK": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/curcuma_b08f1ab3-6a02-4068-96ef-e4e31ba89620.webp",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -963,6 +1004,7 @@
         "column_3QHWmC": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/5.webp",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -990,7 +1032,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Effacez les rides & Restaurez l’élasticité de votre peau",
+        "title": "",
         "title_highlight_color": "#000000",
         "heading_size": "h2",
         "button_label": "",
@@ -1265,6 +1307,7 @@
     "image_slider_jcJbDj",
     "custom_columns_VRkzGq",
     "icon_bar_44aW3T",
+    "rich_text_G8VWqR",
     "multicolumn_UTQ9Vb",
     "image_with_text_DtV7yP",
     "image_with_text_TtpF3m",
