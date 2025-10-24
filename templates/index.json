@@ -624,6 +624,63 @@
         "custom_section_gradient_background": ""
       }
     },
+    "image_with_text_TtpF3m": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_9eRgiL": {
+          "type": "heading",
+          "settings": {
+            "title": "Essayez le masque Belury en toute confiance avec notre garantie de remboursement de 90 jours !",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h2"
+          }
+        },
+        "text_YPcrTm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Les spécialistes de la peau, les dermatologues et nos clients en témoignent : Belury offre des résultats visibles !</p><p>Convaincus de son efficacité, nous vous proposons une garantie satisfait ou remboursé pendant 90 jours.</p><p>Si vous n’obtenez pas les résultats escomptés nous vous remboursons intégralement.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_9eRgiL",
+        "text_YPcrTm"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/Ajouter_un_titre_1.webp",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "center",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
     "contact_form_WHP8G7": {
       "type": "contact-form",
       "blocks": {
@@ -711,6 +768,7 @@
     "featured_product_w6QK93",
     "image_with_text_TweAx9",
     "image_with_text_DtV7yP",
+    "image_with_text_TtpF3m",
     "contact_form_WHP8G7"
   ]
 }
