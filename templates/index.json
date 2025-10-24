@@ -207,8 +207,8 @@
           "settings": {
             "image": "shopify://shop_images/7_150c4edf-8686-4c69-b777-20fe270e7154.webp",
             "star_rating": 4,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "title": "",
+            "text": "<p>Je ne croyais plus aux promesses miracles. Mais après 10 jours d'utilisation, mon visage semble reposé, mes traits moins tirés. Belury ne promet pas la jeunesse éternelle, mais il redonne confiance. Et ça, c’est précieux.</p>",
             "author": "<em><strong>Author</strong></em>"
           }
         },
@@ -217,8 +217,8 @@
           "settings": {
             "image": "shopify://shop_images/belury-masque-coreen-au-bio-collagene-522508.webp",
             "star_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "title": "",
+            "text": "<p>Dès la première nuit, j’ai vu ma peau changer. Plus lumineuse, plus hydratée. Et ce sans agresser ni graisser ma peau sensible. J’adore la texture du masque.</p>",
             "author": "<em><strong>Author</strong></em>"
           }
         },
@@ -227,8 +227,8 @@
           "settings": {
             "image": "shopify://shop_images/9_080889b0-ae41-4c48-93ed-0c7a95ddf62e.webp",
             "star_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "title": "",
+            "text": "<p>Avec l’âge, ma peau était terne, sans éclat. Belury m’a redonné bonne mine, et ce avec une routine ultra simple. Un seul produit, un pinceau et hop. C’est mon moment de soin à moi.</p>",
             "author": "<em><strong>Author</strong></em>"
           }
         },
@@ -237,8 +237,8 @@
           "settings": {
             "image": "shopify://shop_images/5_93679527-3553-4130-b94f-9edc600faf1a.webp",
             "star_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "title": "",
+            "text": "<p>J’ai toujours eu des lèvres très marquées par le temps, et je n’osais plus mettre de rouge à lèvres. Grâce à Belury, mes lèvres ont retrouvé du volume et mes rides se sont estompées. C’est bluffant. Enfin un soin qui comprend notre âge.</p>",
             "author": "<em><strong>Author</strong></em>"
           }
         },
@@ -247,18 +247,28 @@
           "settings": {
             "image": "shopify://shop_images/3_21bb36f9-9c81-4fa3-9900-9eba71057cb3.webp",
             "star_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "title": "",
+            "text": "<p>J’ai essayé des tonnes de crèmes pour atténuer mes taches, sans succès. Avec Belury, je vois enfin des résultats visibles et naturels. Et pas de texture lourde ! C’est devenu mon geste beauté du soir.</p>",
             "author": "<em><strong>Author</strong></em>"
           }
         },
         "column_K6gqCJ": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/3_21bb36f9-9c81-4fa3-9900-9eba71057cb3.webp",
+            "star_rating": 5,
+            "title": "",
+            "text": "<p>Je n’ai jamais supporté les crèmes grasses. Belury est différent : ça pénètre vite, pas de brillance, pas de résidu. Et mon teint ? Plus clair, plus net, plus uniforme. Je recommande à 100%.</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        },
+        "column_gPMjqB": {
+          "type": "column",
+          "settings": {
             "image": "shopify://shop_images/4_a83e96c6-2030-4928-8c50-8d0c392459d3.webp",
             "star_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "title": "",
+            "text": "<p>J’ai une peau à tendance acnéique et sensible, et j’ai toujours eu du mal à trouver un soin qui ne me provoque pas de réactions. Avec Belury, j’ai vu une vraie différence : moins de rougeurs, des pores resserrés, et un teint plus lumineux. C’est devenu mon rituel du soir indispensable.</p>",
             "author": "<em><strong>Author</strong></em>"
           }
         }
@@ -269,7 +279,8 @@
         "column_PwepaQ",
         "column_fHmk6W",
         "column_FiCFfN",
-        "column_K6gqCJ"
+        "column_K6gqCJ",
+        "column_gPMjqB"
       ],
       "name": "Testimonials",
       "settings": {
@@ -304,13 +315,13 @@
         "desktop_side_padding": 0,
         "desktop_padding_calc": true,
         "desktop_adaptive_height": false,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "hidden",
         "slider_mobile": true,
         "enable_mobile_preview": false,
         "mobile_adaptive_height": false,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "under",
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "sides",
         "padding_top": 36,
         "padding_bottom": 36,
         "custom_colors_background": "#FFFFFF",
