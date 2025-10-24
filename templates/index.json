@@ -12,8 +12,21 @@
     "image_with_text_mgjqag": {
       "type": "image-with-text",
       "blocks": {
+        "trustpilot_stars_Bz4CUk": {
+          "type": "trustpilot_stars",
+          "settings": {
+            "rating": 5,
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": " Excellent <strong>4.8/5</strong> | + 5800 avis",
+            "size": 16,
+            "scroll_id": ""
+          }
+        },
         "heading_arhRRG": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "Des effets visibles dès la <strong>1ʳᵉ application</strong>",
             "title_highlight_color": "#000000",
@@ -23,7 +36,7 @@
         "text_EgEUrX": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<h1>Des effets visibles dès la <strong>1ʳᵉ application</strong></h1>",
             "text_style": "body"
           }
         },
@@ -37,6 +50,7 @@
         }
       },
       "block_order": [
+        "trustpilot_stars_Bz4CUk",
         "heading_arhRRG",
         "text_EgEUrX",
         "button_R8eAn4"
