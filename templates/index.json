@@ -1616,10 +1616,21 @@
             "row_content": "<p>Nos produits sont uniquement disponibles sur notre site officiel. Toute vente sur des plateformes tierces, comme Amazon, concerne des contrefaçons de mauvaise qualité. Pour garantir l'authenticité et la qualité, achetez exclusivement sur notre site. Nous déclinons toute responsabilité pour les produits achetés ailleurs.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_ErPiYf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "À quelle fréquence dois-je utiliser le masque de nuit au collagène ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Pour des résultats optimaux, il est recommandé d’intégrer le masque au collagène dans votre routine de soin nocturne <strong>1 à 2 fois par semaine.</strong></p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "collapsible_row_LkhX6J"
+        "collapsible_row_LkhX6J",
+        "collapsible_row_ErPiYf"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
