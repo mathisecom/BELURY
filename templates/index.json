@@ -327,6 +327,12 @@
             "margin_bottom": 24
           }
         },
+        "custom_liquid_wpkfkH": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        },
         "shipping_checkpoints_DREf6T": {
           "type": "shipping_checkpoints",
           "settings": {
@@ -446,6 +452,7 @@
         "variant_picker_gYYw9x",
         "quantity_selector_Fz8iRm",
         "buy_buttons_Q4gtc7",
+        "custom_liquid_wpkfkH",
         "shipping_checkpoints_DREf6T",
         "reviews_zeD7K3",
         "collapsible_tab_FkHNcg",
