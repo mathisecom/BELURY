@@ -698,7 +698,23 @@
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p><strong>Livraison :</strong><br/>Votre satisfaction est notre priorité, c’est pourquoi <strong>nous prenons en charge les frais de livraison.</strong></p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_KXQEfn": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Essayez-le 90 jours GRATUITEMENT",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Nous croyons en la qualité de nos soins.<br/><br/>C’est pourquoi chaque commande est couverte par notre <strong>garantie 90 jours satisfait ou remboursé.</strong><br/><br/>Essayez Belury sans pression et votre peau vous dira merci.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -750,6 +766,7 @@
         "shipping_checkpoints_DREf6T",
         "reviews_zeD7K3",
         "collapsible_tab_FkHNcg",
+        "collapsible_tab_KXQEfn",
         "collapsible_tab_FfnDYH",
         "collapsible_tab_pckaxA"
       ],
