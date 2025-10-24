@@ -1015,6 +1015,18 @@
         "column_Yt6iRf": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/6.webp",
+            "muted_autoplay": true,
+            "title": "Column",
+            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JwTDzF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vitamine_C.webp",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -1026,7 +1038,8 @@
       "block_order": [
         "column_tJVJxK",
         "column_3QHWmC",
-        "column_Yt6iRf"
+        "column_Yt6iRf",
+        "column_JwTDzF"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
