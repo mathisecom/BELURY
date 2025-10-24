@@ -1646,13 +1646,24 @@
             "row_content": "<p>De nombreuses clientes constatent une <strong>amélioration de l’hydratation et de la texture de la peau dès la première application</strong>. Pour des résultats plus visibles (réduction des ridules, peau plus ferme), une utilisation régulière pendant <strong>2 à 4 semaines</strong> est recommandée.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_Wc6pnQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quelle est la composition INCI ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p><strong>Plus qu'une simple formule : la synergie de 6 actifs révolutionnaires concentrés dans un seul masque.</strong></p><p>Chaque ingrédient du masque Belury a été minutieusement sélectionné par nos experts coréens pour créer la formule anti-âge la plus complète au monde :</p><h3><strong>🔬 LES 6 ACTIFS STARS :</strong></h3><p>✨ <strong>COLLAGEN EXTRACT</strong> → Restructure votre peau de l'intérieur pour une fermeté visible en 7 jours<br/><br/>✨ <strong>CURCUMA LONGA ROOT EXTRACT</strong> → Élimine inflammation et rougeurs, révèle l'éclat naturel<br/><br/>✨ <strong>RETINOL</strong> → Lisse rides et ridules pendant votre sommeil sans irritation<br/><br/>✨ <strong>SODIUM HYALURONATE</strong> → Hydrate 1000x son poids en eau pour un effet repulpant immédiat<br/><br/>✨ <strong>NIACINAMIDE</strong> → Resserre les pores et unifie le teint dès la première application<br/><br/>✨ <strong>ASCORBIC ACID (Vitamine C)</strong> → Booste la production de collagène et protège du vieillissement</p><h3><strong>⚡ LA TECHNOLOGIE RÉVOLUTIONNAIRE :</strong></h3><p>Notre base <strong>POLYVINYL ALCOHOL + GLYCERIN</strong> crée la technologie d'encapsulation hydrogel qui libère ces 6 actifs premium progressivement pendant 8 heures.</p><p><em>Résultat : 100% des principes actifs pénètrent en profondeur au lieu de s'évaporer comme avec les crèmes ordinaires.</em></p><h3><strong>🌿 SÉCURITÉ MAXIMALE :</strong></h3><p>Formule sans parabènes, enrichie en <strong>KOJIC ACID</strong> (agent éclaircissant naturel) et <strong>ADENOSINE</strong> (anti-âge cliniquement prouvé).</p><p><strong>Composition INCI complète :</strong> WATER, POLYVINYL ALCOHOL, GLYCERIN, BUTYLENE GLYCOL, NIACINAMIDE, 1,2-HEXANEDIOL, SODIUM HYALURONATE, ISOPENTYLDIOL, CURCUMA LONGA (TURMERIC) ROOT EXTRACT, POLYGLYCERYL-10 LAURATE, PROPANEDIOL, GLYCERYL GLUCOSIDE, ETHYLHEXYLGLYCERIN, XANTHAN GUM, ADENOSINE, DISODIUM EDTA, GLUCOSE, KOJIC ACID, ASCORBIC ACID, GLYCINE SOJA (SOYBEAN) OIL, COLLAGEN EXTRACT, RETINOL.</p><p><em>C'est cette synergie unique qui permet des résultats visibles dès la première nuit.</em></p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_LkhX6J",
         "collapsible_row_ErPiYf",
         "collapsible_row_TxrmEb",
-        "collapsible_row_VBaAKE"
+        "collapsible_row_VBaAKE",
+        "collapsible_row_Wc6pnQ"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
