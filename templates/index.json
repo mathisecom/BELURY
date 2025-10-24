@@ -205,7 +205,18 @@
         "column_iKhVDJ": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/7_150c4edf-8686-4c69-b777-20fe270e7154.webp",
             "star_rating": 4,
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        },
+        "column_jMhK9N": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/belury-masque-coreen-au-bio-collagene-522508.webp",
+            "star_rating": 5,
             "title": "Heading",
             "text": "<p>Share positive thoughts and feedback from your customer..</p>",
             "author": "<em><strong>Author</strong></em>"
@@ -214,6 +225,7 @@
         "column_PwepaQ": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/9_080889b0-ae41-4c48-93ed-0c7a95ddf62e.webp",
             "star_rating": 5,
             "title": "Heading",
             "text": "<p>Share positive thoughts and feedback from your customer..</p>",
@@ -223,6 +235,7 @@
         "column_fHmk6W": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/5_93679527-3553-4130-b94f-9edc600faf1a.webp",
             "star_rating": 5,
             "title": "Heading",
             "text": "<p>Share positive thoughts and feedback from your customer..</p>",
@@ -232,6 +245,17 @@
         "column_FiCFfN": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/3_21bb36f9-9c81-4fa3-9900-9eba71057cb3.webp",
+            "star_rating": 5,
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        },
+        "column_K6gqCJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/4_a83e96c6-2030-4928-8c50-8d0c392459d3.webp",
             "star_rating": 5,
             "title": "Heading",
             "text": "<p>Share positive thoughts and feedback from your customer..</p>",
@@ -241,9 +265,11 @@
       },
       "block_order": [
         "column_iKhVDJ",
+        "column_jMhK9N",
         "column_PwepaQ",
         "column_fHmk6W",
-        "column_FiCFfN"
+        "column_FiCFfN",
+        "column_K6gqCJ"
       ],
       "name": "Testimonials",
       "settings": {
