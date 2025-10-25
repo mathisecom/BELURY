@@ -1893,6 +1893,30 @@
         "custom_cards_gradient_background": "",
         "custom_cards_colors_text": "#2e2a39"
       }
+    },
+    "1761351466eb111c8c": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_VaeqEG": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "belury-masque-coreen-au-curcuma-collagene",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_VaeqEG"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -1912,6 +1936,7 @@
     "image_with_text_TtpF3m",
     "collapsible_content_A7UKaa",
     "image_with_text_eyCh3D",
-    "icon_bar_APKdkY"
+    "icon_bar_APKdkY",
+    "1761351466eb111c8c"
   ]
 }
