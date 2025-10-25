@@ -125,7 +125,7 @@
         "logo_position": "middle-left",
         "menu": "menu",
         "menu_type_desktop": "dropdown",
-        "highlight_active_link": true,
+        "highlight_active_link": false,
         "highlighted_link_color_scheme": "accent-1",
         "products_mega_menu_links": "",
         "products_mega_menu_display_collection_products": true,
