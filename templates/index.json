@@ -1963,6 +1963,97 @@
         "display_id": false,
         "include_margins": true
       }
+    },
+    "icon_bar_FTie7C": {
+      "type": "icon-bar",
+      "blocks": {
+        "column_awQ3cn": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": ""
+          }
+        },
+        "column_HDeQWp": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": ""
+          }
+        },
+        "column_JYRTnW": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": ""
+          }
+        },
+        "column_yaqfGP": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_awQ3cn",
+        "column_HDeQWp",
+        "column_JYRTnW",
+        "column_yaqfGP"
+      ],
+      "name": "Icon Bar",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "icon_layout": "vertical",
+        "icon_size": "medium",
+        "icon_color": "accent-1",
+        "cards_color_scheme": "background-1",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 4,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_cards_colors_background": "#F3F3F3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2E2A39"
+      }
     }
   },
   "order": [
@@ -1984,6 +2075,7 @@
     "image_with_text_eyCh3D",
     "icon_bar_APKdkY",
     "rich_text_EEeDEa",
-    "1761351466eb111c8c"
+    "1761351466eb111c8c",
+    "icon_bar_FTie7C"
   ]
 }
