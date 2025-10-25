@@ -371,7 +371,7 @@
             "settings": {
               "position": "footer",
               "display": "specific_products",
-              "display_product_handles": "belury-masque-coreen-au-curcuma-collagene",
+              "display_product_handles": "belury masque",
               "style": "toggle_switch",
               "btn_position": "right",
               "toggle_element": "container",
