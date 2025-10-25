@@ -1972,7 +1972,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
-            "title": "Icon",
+            "title": "Livraison Offerte",
             "text": ""
           }
         },
@@ -1981,7 +1981,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
-            "title": "Icon",
+            "title": "90 jours pour changer d'avis",
             "text": ""
           }
         },
@@ -1990,7 +1990,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
-            "title": "Icon",
+            "title": "Service Client 7J/7",
             "text": ""
           }
         },
@@ -1999,7 +1999,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
-            "title": "Icon",
+            "title": "Paiement Sécurisés",
             "text": ""
           }
         }
