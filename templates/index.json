@@ -415,7 +415,7 @@
         "gray_logos": false,
         "color_scheme": "background-1",
         "layout": "horizontal",
-        "desktop_logo_height": 50,
+        "desktop_logo_height": 40,
         "columns_mobile": 2,
         "mobile_logo_height": 30,
         "mobile_slider": true,
