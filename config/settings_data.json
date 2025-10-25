@@ -758,6 +758,8 @@
     }
   },
   "platform_customizations": {
-    "custom_css": []
+    "custom_css": [
+      ".loox-rating span, .loox-rating .loox-rating-label {display: none !important;}"
+    ]
   }
 }
