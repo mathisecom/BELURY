@@ -17,6 +17,7 @@
     "secondary_logo": "shopify://shop_images/Belury_8c052499-a593-49d0-87cb-04c53720cd19.webp",
     "logo_width": 130,
     "mobile_logo_width": 130,
+    "favicon": "shopify://shop_images/Design_sans_titre_99.png",
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#000000",
     "gradient_accent_1": "",
