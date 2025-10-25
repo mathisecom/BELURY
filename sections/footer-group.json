@@ -39,7 +39,7 @@
           "type": "text",
           "settings": {
             "heading": "Nous Contactez",
-            "subtext": "<p><strong>Page de contact:</strong> Cliquez-ici</p><p><strong>Horaires</strong> : Du Lun au Ven de 9h à 12h et de 13h à 18h / Sam et Dim de 10h à 12h</p>",
+            "subtext": "<p><strong>Page de contact:</strong> <a href=\"/pages/contact\" title=\"Contactez-Nous\">Cliquez-ici</a></p><p><strong>Horaires</strong> : Du Lun au Ven de 9h à 12h et de 13h à 18h / Sam et Dim de 10h à 12h</p>",
             "width_desktop": 3,
             "width_mobile": "2"
           }
