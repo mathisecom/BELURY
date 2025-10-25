@@ -374,7 +374,7 @@
               "display_product_handles": "",
               "style": "toggle_switch",
               "btn_position": "right",
-              "toggle_element": "button",
+              "toggle_element": "container",
               "add_btn_label": "<strong>Add</strong>",
               "hide_in_cart_items": false,
               "stacking": "row",
@@ -759,7 +759,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".loox-rating span, .loox-rating .loox-rating-label {display: none !important;}"
+      ".loox-rating span,.loox-rating .loox-rating-label {display: none !important;}"
     ]
   }
 }
