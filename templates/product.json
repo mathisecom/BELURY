@@ -12,16 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "title": {
-          "type": "title",
-          "settings": {
-            "text_size": "h2",
-            "title_alignment": "left",
-            "uppercase_title": false,
-            "margin_top": 0,
-            "margin_bottom": 0
-          }
-        },
         "a6eb81db-40e4-43e0-972f-32db010a4a56": {
           "type": "rating_stars",
           "settings": {
@@ -35,6 +25,16 @@
             "scroll_id": "",
             "margin_top": 0,
             "margin_bottom": 9
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "text_size": "h2",
+            "title_alignment": "left",
+            "uppercase_title": false,
+            "margin_top": 0,
+            "margin_bottom": 0
           }
         },
         "price": {
@@ -194,8 +194,8 @@
         }
       },
       "block_order": [
-        "title",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
+        "title",
         "price",
         "buy_buttons",
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
