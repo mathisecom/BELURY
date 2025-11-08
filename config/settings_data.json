@@ -429,7 +429,7 @@
           "631b0e34-4299-400e-9f4d-c107c08cce01": {
             "type": "discount_field",
             "settings": {
-              "bottom_separator": true,
+              "bottom_separator": false,
               "placeholder": "Code de Réduction",
               "btn_label": "Valider",
               "error_msg": "Please enter a discount code!",
