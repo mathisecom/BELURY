@@ -428,6 +428,7 @@
           },
           "631b0e34-4299-400e-9f4d-c107c08cce01": {
             "type": "discount_field",
+            "disabled": true,
             "settings": {
               "bottom_separator": false,
               "placeholder": "Code de Réduction",
