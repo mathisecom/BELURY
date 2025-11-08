@@ -348,7 +348,7 @@
               "compare_price_color": "text",
               "display_single_item_prices": true,
               "enable_savings": true,
-              "savings_text": "<strong>(You save [amount])</strong>",
+              "savings_text": "<strong>(Vous économisez [amount])</strong>",
               "savings_color": "text",
               "quantity_font_size": 14,
               "quantity_container_padding": 0,
@@ -372,7 +372,7 @@
             "settings": {
               "position": "footer",
               "display": "globally",
-              "display_product_handles": "belury-masque",
+              "display_product_handles": "",
               "style": "toggle_switch",
               "btn_position": "right",
               "toggle_element": "container",
@@ -382,7 +382,7 @@
               "accent_color": "accent-1",
               "color_scheme": "background-1",
               "product_list": [
-                "belury-masque-coreen-au-curcuma-collagene"
+                "masque-coreen-au-curcuma-collagene"
               ],
               "prdouct_1_preselected": false,
               "product_1_image": "shopify://shop_images/image_hero.webp",
