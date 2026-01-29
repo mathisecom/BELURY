@@ -692,6 +692,7 @@
         },
         "shipping_checkpoints_DREf6T": {
           "type": "shipping_checkpoints",
+          "disabled": true,
           "settings": {
             "icon_1": "add_shopping_cart",
             "filled_icon_1": false,
@@ -1718,6 +1719,7 @@
         },
         "collapsible_row_bJxewm": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Quel est le délai de livraison ?",
             "icon": "",
