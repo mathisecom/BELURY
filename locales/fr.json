@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -463,6 +472,13 @@
       "expired": "Expiré",
       "copy_code_success": "Le code a bien été copié",
       "print_gift_card": "Imprimer"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "contact": {
+        "optional_phone_label": "Téléphone (Conseillé pour la livraison)"
+      }
     }
   }
 }
